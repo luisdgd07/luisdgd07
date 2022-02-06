@@ -10,7 +10,6 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=luisdgd07&theme=highcontrast&hide_border=true" alt="luisdgd07" />
 </p>
 
-<!--START_SECTION:activity-->
 name: Update README
 
 on:
@@ -28,6 +27,7 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 Donate to me 💰
 https://bit.ly/3B3svnr
