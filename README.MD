@@ -60,17 +60,15 @@ const luis = {
 
 ## 🚀 Featured Projects
 
-| Project        | Description                                                   | Link              |
-| :------------- | :------------------------------------------------------------ | :---------------- |
-| **🎯 Briefee** | Platform for content creators to manage and grow their brand. | [View Project](#) |
+| Project        | Description                                                   | Link                        |
+| :------------- | :------------------------------------------------------------ | :-------------------------- |
+| **🎯 Briefee** | Platform for content creators to manage and grow their brand. | [View Project](briefee.com) |
 
 ---
 
 ## 📊 My Statistics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisdgd07&show_icons=true&theme=radical&title_color=ff8000&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact&hide_border=true" alt="Top Langs" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luisdgd07&show_icons=true&theme=radical&title_color=ff8000&text_color=ffffff&bg_color=0d1117&locale=en&hide_border=true" alt="GitHub Stats" />
   <br/>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=luisdgd07&theme=radical&hide_border=true&background=0d1117&ring=ff8000&fire=ff8000&currStreakLabel=ff8000" alt="Streak Stats" />
 </div>
