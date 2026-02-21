@@ -60,9 +60,9 @@ const luis = {
 
 ## 🚀 Featured Projects
 
-| Project        | Description                                                   | Link                        |
-| :------------- | :------------------------------------------------------------ | :-------------------------- |
-| **🎯 Briefee** | Platform for content creators to manage and grow their brand. | [View Project](briefee.com) |
+| Project        | Description                                                   
+| :------------- | :------------------------------------------------------------ 
+| **🎯 Briefee** | Platform for content creators to manage and grow their brand. 
 
 ---
 
